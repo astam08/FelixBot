@@ -1,10 +1,10 @@
 module.exports = {
-    admins: ["YOUR_ID", "SOMEONE_TRUSTABLE", "A_SECOND_TRUSTABLE_PERSON_IF_YOU_KNOW_ANY_IDK"],
-    prefix: "felix",
+    admins: ["402367348364935169"],
+    prefix: "_r",
     //User Settings > Appearance > Enable Developer Mode > Right click on your username and the click "Copy ID". There, you got your Discord ID
-    ownerID: "YOUR_ID",
+    ownerID: "402367348364935169",
     //Toke is needed
-    token: "baguette",
+    token: "NDk3MjY5MjExOTUzODg5Mjgx.XLrcwg.myUI6y-sHnEhONPzcD704l9ZwuE",
     database: {
         //Unless the database is on another server, the host should stay like this
         host: "127.0.0.1",
