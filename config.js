@@ -7,9 +7,9 @@ module.exports = {
     token: "NDk3MjY5MjExOTUzODg5Mjgx.XLrcwg.myUI6y-sHnEhONPzcD704l9ZwuE",
     database: {
         //Unless the database is on another server, the host should stay like this
-        host: "127.0.0.1",
+        host: "",
         //The port should be the client driver port, not the administrative HTTP connection nor the intracluster one
-        port: 28015,
+        port: ,
         //You shouldn't need to change this unless you run multiple instances of the bot and ony one instance of RethinkDB; In that case, you can use different databases
         database: "data",
         //The username to connect as
